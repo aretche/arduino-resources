@@ -1,3 +1,3 @@
 # Arduino Resources
 
-Arduino related resources (datasheets, proyects, etc.)
+Arduino related resources (datasheets, proyects ideas, etc.)
