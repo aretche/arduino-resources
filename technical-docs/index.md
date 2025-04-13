@@ -79,6 +79,3 @@
 - [I2C Serial Interface 1602 LCD Module Handson Technology](components/I2C%20Serial%20Interface%201602%20LCD%20Module%20Handson%20Technology.pdf)
 - [TowerPro SG90 - Micro Servo](components/TowerPro%20SG90%20-%20Micro%20Servo.pdf)
 
-
-
-- [Sensors Compatible with ESP32 (and arduino)](https://www.espboards.dev/sensors/)
