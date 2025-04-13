@@ -1,0 +1,84 @@
+# Technical Documentation
+
+## Boards
+
+- [Arduino Uno R3 Datasheet](boards/arduino-uno-r3-datasheet.pdf)
+- [Arduino Mega 2560 Rev3 Datasheet](boards/arduino-mega-datasheet.pdf)
+- [Arduino Nano Datasheet](boards/arduino-nano-datasheet.pdf)
+
+## Shields
+
+- [IO Expansion Shield for arduino v7.1 DfRobot](shields/IO%20Expansion%20Shield%20for%20arduino%20v7.1%20DfRobot.pdf)
+- [Prototype shield v5 for Arduino Adafruit](shields/Prototype%20shield%20v5%20for%20Arduino%20Adafruit.pdf)
+
+## Modules
+
+- [COM-MSD Micro-SD breakout board Joy-IT](modules/COM-MSD%20Micro-SD%20breakout%20board%20Joy-IT.pdf)
+- [DS1302 Real-Time Clock Module Parallax](modules/DS1302%20Real-Time%20Clock%20Module%20Parallax.pdf)
+- [DS18B20 Digital Temperature Sensor Module Wiltronics](modules/DS18B20%20Digital%20Temperature%20Sensor%20Module%20Wiltronics.pdf)
+- [GY-521 MPU6050 3-axis Gyroscope and Acceleration Az-Delivery](modules/GY-521%20MPU6050%203-axis%20Gyroscope%20and%20Acceleration%20Az-Delivery.pdf)
+- [HC-SR04 Ultrasonic module](modules/HC-SR04%20Ultrasonic%20module.pdf)
+- [K-0135 Water Sensor Module](modules/K-0135%20Water%20Sensor%20Module.pdf)
+- [KS0140 5V Stepper Motor Keyestudio](modules/KS0140%205V%20Stepper%20Motor%20Keyestudio.pdf)
+- [KY-001 Temperature Sensor Module Joy-IT](modules/KY-001%20Temperature%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-002 Vibration Switch Module Joy-IT](modules/KY-002%20Vibration%20Switch%20Module%20Joy-IT.pdf)
+- [KY-003 Hall Magnetic Sensor Module Joy-IT](modules/KY-003%20Hall%20Magnetic%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-004 Key Switch Module Joy-IT](modules/KY-004%20Key%20Switch%20Module%20Joy-IT.pdf)
+- [KY-005 Infrared Transmitter Module Joy-IT](modules/KY-005%20Infrared%20Transmitter%20Module%20Joy-IT.pdf)
+- [KY-006 Passive Buzzer Module Joy-IT](modules/KY-006%20Passive%20Buzzer%20Module%20Joy-IT.pdf)
+- [KY-008 Laser Transmitter Module AZ-Delivery](modules/KY-008%20Laser%20Transmitter%20Module%20AZ-Delivery.pdf)
+- [KY-009 RGB Full Color LED SMD Module AZ-Delivery](modules/KY-009%20RGB%20Full%20Color%20LED%20SMD%20Module%20AZ-Delivery.pdf)
+- [KY-010 Photo Interrupter Module](modules/KY-010%20Photo%20Interrupter%20Module.pdf)
+- [KY-011 Two-Color LED Module Joy-IT](modules/KY-011%20Two-Color%20LED%20Module%20Joy-IT.pdf)
+- [KY-012 Active Buzzer Module Joy-IT](modules/KY-012%20Active%20Buzzer%20Module%20Joy-IT.pdf)
+- [KY-013 Analog Temperature Sensor Module Joy-IT](modules/KY-013%20Analog%20Temperature%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-015 DHT11 Temperature and Humidity Sensor Joy-IT](modules/KY-015%20DHT11%20Temperature%20and%20Humidity%20Sensor%20Joy-IT.pdf)
+- [KY-015 Temperature and Humidity Sensor Module](modules/KY-015%20Temperature%20and%20Humidity%20Sensor%20Module.pdf)
+- [KY-016 RGB Full Color LED Module Joy-IT](modules/KY-016%20RGB%20Full%20Color%20LED%20Module%20Joy-IT.pdf)
+- [KY-017 Mercury Tilt Switch Module Joy-IT](modules/KY-017%20Mercury%20Tilt%20Switch%20Module%20Joy-IT.pdf)
+- [KY-018 Photoresistor Module Joy-IT](modules/KY-018%20Photoresistor%20Module%20Joy-IT.pdf)
+- [KY-019 5V Relay Module Joy-IT](modules/KY-019%205V%20Relay%20Module%20Joy-IT.pdf)
+- [KY-020 Tilt Switch Module Joy-IT](modules/KY-020%20Tilt%20Switch%20Module%20Joy-IT.pdf)
+- [KY-021 Mini Magnetic Reed Switch Module Joy-IT](modules/KY-021%20Mini%20Magnetic%20Reed%20Switch%20Module%20Joy-IT.pdf)
+- [KY-022 Infrared Receiver Module Joy-IT](modules/KY-022%20Infrared%20Receiver%20Module%20Joy-IT.pdf)
+- [KY-023 Joystick module Joy-IT](modules/KY-023%20Joystick%20module%20Joy-IT.pdf)
+- [KY-024 Linear Magnetic Hall Sensor Module Joy-IT](modules/KY-024%20Linear%20Magnetic%20Hall%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-025 Reed Switch Module Joy-IT](modules/KY-025%20Reed%20Switch%20Module%20Joy-IT.pdf)
+- [KY-026 Flame-sensor module Joy-IT](modules/KY-026%20Flame-sensor%20module%20Joy-IT.pdf)
+- [KY-027 Magic Light Cup Module](modules/KY-027%20Magic%20Light%20Cup%20Module.pdf)
+- [KY-028 Temperature Sensor module \%28Thermistor\%29 JoyIT](modules/KY-028%20Temperature%20Sensor%20module%20%28Thermistor%29%20JoyIT.pdf)
+- [KY-029 Dual Color LED Module Joy-IT](modules/KY-029%20Dual%20Color%20LED%20Module%20Joy-IT.pdf)
+- [KY-031 Knock Sensor Module Joy-IT](modules/KY-031%20Knock%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-032 Infrared Obstacle Avoidance Sensor Module Joy-IT](modules/KY-032%20Infrared%20Obstacle%20Avoidance%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-033 Line Tracking Sensor Module Joy-IT](modules/KY-033%20Line%20Tracking%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-034 Automatic Flashing Color LED Module Joy-IT](modules/KY-034%20Automatic%20Flashing%20Color%20LED%20Module%20Joy-IT.pdf)
+- [KY-035 Analog Hall Magnetic Sensor Module](modules/KY-035%20Analog%20Hall%20Magnetic%20Sensor%20Module.pdf)
+- [KY-036 Metal Touch Sensor Module-Joy-IT](modules/KY-036%20Metal%20Touch%20Sensor%20Module-Joy-IT.pdf)
+- [KY-037 High Sensitivity Sound Detection Module-Joy-IT](modules/KY-037%20High%20Sensitivity%20Sound%20Detection%20Module-Joy-IT.pdf)
+- [KY-039 Heartbeat Sensor Module Joy-IT](modules/KY-039%20Heartbeat%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-040 Rotary Encoder module](modules/KY-040%20Rotary%20Encoder%20module.pdf)
+- [KY-050 Ultrasonic-distance-sensor Joy-IT](modules/KY-050%20Ultrasonic-distance-sensor%20Joy-IT.pdf)
+- [KY-051 Voltage Translator - Level Shifter Joy-IT](modules/KY-051%20Voltage%20Translator%20-%20Level%20Shifter%20Joy-IT.pdf)
+- [KY-052 Pressure and Temperature Sensor Module Joy-IT](modules/KY-052%20Pressure%20and%20Temperature%20Sensor%20Module%20Joy-IT.pdf)
+- [KY-053 Analog Digital Converter Module Joy-IT](modules/KY-053%20Analog%20Digital%20Converter%20Module%20Joy-IT.pdf)
+- [KY-054 Phototransistor Module Joy-IT](modules/KY-054%20Phototransistor%20Module%20Joy-IT.pdf)
+- [MB102 Breadboard 3.3V-5V Power Supply Handson Technology](modules/MB102%20Breadboard%203.3V-5V%20Power%20Supply%20Handson%20Technology.pdf)
+- [MP1584EN Mini DC-DC Step Down Module](modules/MP1584EN%20Mini%20DC-DC%20Step%20Down%20Module.pdf)
+- [RC522 RFID Development Kit Handson Technology](modules/RC522%20RFID%20Development%20Kit%20Handson%20Technology.pdf)
+- [RC522 RFID Module Keyestudio](modules/RC522%20RFID%20Module%20Keyestudio.pdf)
+- [SEN-HC-SR501 Passive Infrared Motion Sensor Joy-IT](modules/SEN-HC-SR501%20Passive%20Infrared%20Motion%20Sensor%20Joy-IT.pdf)
+- [YL-69-HL-69 Soil Moisture Sensor](modules/YL-69-HL-69%20Soil%20Moisture%20Sensor.pdf)
+
+## Components
+
+- [16x2 LCD Module 1602A-1 Shensen](components/16x2%20LCD%20Module%201602A-1%20Shensen.pdf)
+- [16x2 LCD Panel BC1602A Handson Technology](components/16x2%20LCD%20Panel%20BC1602A%20Handson%20Technology.pdf)
+- [4 digits 7 Segment Display](components/4%20digits%207%20Segment%20Display.pdf)
+- [4x4 Matrix Membrane Keypad Parallax](components/4x4%20Matrix%20Membrane%20Keypad%20Parallax.pdf)
+- [7 Segment Display](components/7%20Segment%20Display.pdf)
+- [I2C Serial Interface 1602 LCD Module Handson Technology](components/I2C%20Serial%20Interface%201602%20LCD%20Module%20Handson%20Technology.pdf)
+- [TowerPro SG90 - Micro Servo](components/TowerPro%20SG90%20-%20Micro%20Servo.pdf)
+
+
+
+- [Sensors Compatible with ESP32 (and arduino)](https://www.espboards.dev/sensors/)
