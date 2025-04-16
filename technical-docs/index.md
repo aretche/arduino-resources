@@ -46,7 +46,7 @@
 - [KY-025 Reed Switch Module Joy-IT](modules/KY-025%20Reed%20Switch%20Module%20Joy-IT.pdf)
 - [KY-026 Flame-sensor module Joy-IT](modules/KY-026%20Flame-sensor%20module%20Joy-IT.pdf)
 - [KY-027 Magic Light Cup Module](modules/KY-027%20Magic%20Light%20Cup%20Module.pdf)
-- [KY-028 Temperature Sensor module \%28Thermistor\%29 JoyIT](modules/KY-028%20Temperature%20Sensor%20module%20%28Thermistor%29%20JoyIT.pdf)
+- [KY-028 Temperature Sensor module (Thermistor) JoyIT](modules/KY-028%20Temperature%20Sensor%20module%20%28Thermistor%29%20JoyIT.pdf)
 - [KY-029 Dual Color LED Module Joy-IT](modules/KY-029%20Dual%20Color%20LED%20Module%20Joy-IT.pdf)
 - [KY-031 Knock Sensor Module Joy-IT](modules/KY-031%20Knock%20Sensor%20Module%20Joy-IT.pdf)
 - [KY-032 Infrared Obstacle Avoidance Sensor Module Joy-IT](modules/KY-032%20Infrared%20Obstacle%20Avoidance%20Sensor%20Module%20Joy-IT.pdf)
@@ -64,9 +64,11 @@
 - [KY-054 Phototransistor Module Joy-IT](modules/KY-054%20Phototransistor%20Module%20Joy-IT.pdf)
 - [MB102 Breadboard 3.3V-5V Power Supply Handson Technology](modules/MB102%20Breadboard%203.3V-5V%20Power%20Supply%20Handson%20Technology.pdf)
 - [MP1584EN Mini DC-DC Step Down Module](modules/MP1584EN%20Mini%20DC-DC%20Step%20Down%20Module.pdf)
+- [MPU6050 Accelerometer - Gyro Module Handson Technology](modules/MPU6050%20Accelerometer%20-%20Gyro%20Module%20Handson%20Technology.pdf)
 - [RC522 RFID Development Kit Handson Technology](modules/RC522%20RFID%20Development%20Kit%20Handson%20Technology.pdf)
 - [RC522 RFID Module Keyestudio](modules/RC522%20RFID%20Module%20Keyestudio.pdf)
 - [SEN-HC-SR501 Passive Infrared Motion Sensor Joy-IT](modules/SEN-HC-SR501%20Passive%20Infrared%20Motion%20Sensor%20Joy-IT.pdf)
+- [XC4386 SD Card Module](modules/XC4386%20SD%20Card%20Module.pdf)
 - [YL-69-HL-69 Soil Moisture Sensor](modules/YL-69-HL-69%20Soil%20Moisture%20Sensor.pdf)
 
 ## Components
@@ -78,4 +80,6 @@
 - [7 Segment Display](components/7%20Segment%20Display.pdf)
 - [I2C Serial Interface 1602 LCD Module Handson Technology](components/I2C%20Serial%20Interface%201602%20LCD%20Module%20Handson%20Technology.pdf)
 - [TowerPro SG90 - Micro Servo](components/TowerPro%20SG90%20-%20Micro%20Servo.pdf)
+- [SG90 TowerPro - Micro Servo Motor - Handson Technology.pdf](components/SG90%20TowerPro%20Micro%20Servo%20Motor%20Handson%20Technology.pdf)
+- [130 Brushed High Speed Mini DC Motor - Handson Technology](components/130%20Brushed%20High%20Speed%20Mini%20DC%20Motor%20Handson%20Technology.pdf)
 
