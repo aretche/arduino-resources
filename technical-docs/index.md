@@ -10,6 +10,7 @@
 
 - [IO Expansion Shield for arduino v7.1 DfRobot](shields/IO%20Expansion%20Shield%20for%20arduino%20v7.1%20DfRobot.pdf)
 - [Prototype shield v5 for Arduino Adafruit](shields/Prototype%20shield%20v5%20for%20Arduino%20Adafruit.pdf)
+- [Sensor Shield V5.0 for Arduino Uno/Mega/Leonardo](shields/Sensor%20Shield%20v5.pdf)
 
 ## Modules
 
@@ -79,6 +80,7 @@
 - [4x4 Matrix Membrane Keypad Parallax](components/4x4%20Matrix%20Membrane%20Keypad%20Parallax.pdf)
 - [7 Segment Display](components/7%20Segment%20Display.pdf)
 - [I2C Serial Interface 1602 LCD Module Handson Technology](components/I2C%20Serial%20Interface%201602%20LCD%20Module%20Handson%20Technology.pdf)
+- [SG90 servo mini Pan-Tilt Kit Assembly](components/Mini%20Pan-Tilt%20Kit%20Assembly.pdf)
 - [TowerPro SG90 - Micro Servo](components/TowerPro%20SG90%20-%20Micro%20Servo.pdf)
 - [SG90 TowerPro - Micro Servo Motor - Handson Technology.pdf](components/SG90%20TowerPro%20Micro%20Servo%20Motor%20Handson%20Technology.pdf)
 - [130 Brushed High Speed Mini DC Motor - Handson Technology](components/130%20Brushed%20High%20Speed%20Mini%20DC%20Motor%20Handson%20Technology.pdf)
